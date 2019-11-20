@@ -3,7 +3,6 @@
 ## Node.js
 
 
-here 1
 Here are the instructions to get an echo bot that maintains state across conversation turns to count the number of messages the user sends:
 
 - Clone the BotBuilder-Samples repository in github
