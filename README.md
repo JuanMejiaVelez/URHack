@@ -1,11 +1,23 @@
 # Prep
 
-## Node.js
+- Get visual studio code (or any other IDE you prefer)
+    ```http
+    https://code.visualstudio.com
+    ```
+- Get GitHub (or your favorite Git supported version control tool)
+    ```http
+    https://git-scm.com
+    ```
 
+## Node.js
 
 Here are the instructions to get an echo bot that maintains state across conversation turns to count the number of messages the user sends:
 
-- Clone the BotBuilder-Samples repository in github
+- To work with js: get node.js and npm  
+    ```http
+    https://nodejs.org
+    ```
+- Clone the BotBuilder-Samples repository in GitHub
     ```bash
     git clone https://github.com/microsoft/botbuilder-samples.git
     ```
@@ -26,7 +38,7 @@ You will also find a wealth of samples under samples/javascript_nodejs. Each sam
 
 To talk to your bot, see the section below on how to use the Bot Framework Emulator.
 
-## C#
+## C&#35;
 
 Here are the instructions to get an echo bot that maintains state across conversation turns to count the number of messages the user sends:
 
