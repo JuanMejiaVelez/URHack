@@ -29,6 +29,10 @@ Here are the instructions to get an echo bot that maintains state across convers
     ```bash
     npm install
     ```
+- In case of needed update your version of npm 
+    ```http
+    npm install npm@latest -g
+    ```
 - Start the bot
     ```bash
     npm start
